@@ -3,9 +3,9 @@
 <br/>
 <br/>
 <h1 align="center">Hi 👋, I'm Duduzile Aaron Sibanda</h1>
-<h3 align="center">A motivated fullstack developer from Zimbabwe who has a passion for working on fully functional web projects and learn new things along the way.</h3>
+<h3 align="center">A motivated fullstack developer from Zimbabwe who has a passion for working on fully functional web projects and learn new things along the way.</h3><br />
 
-<p align="left"> <a href="https://twitter.com/aaron_dudue99" target="blank"><img src="https://img.shields.io/twitter/follow/aaron_dudue99?logo=twitter&style=for-the-badge" alt="aaron_dudue99" /></a> </p>
+<p align="center"> <a href="https://twitter.com/aaron_dudue99" target="blank"><img src="https://img.shields.io/twitter/follow/aaron_dudue99?logo=twitter&style=for-the-badge" alt="aaron_dudue99" /></a> </p>
 
 - 🔭 I’m currently working on [a farm operations management web api that manages all the activities on a farm from expenses, products, customers, farm inputs, e.t.c](https://github.com/aaron-dudue99/farm-operations-mgmt)
 
@@ -41,7 +41,7 @@
 <details>
 <summary><b>Work Summary</b></summary>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaron-dudue99&show_icons=true&locale=en&layout=compact" alt="aaron-dudue99" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaron-dudue99&show_icons=true&locale=en&layout=compact" alt="aaron-dudue99" /></p>
 <br />
 </details>
 <br />
