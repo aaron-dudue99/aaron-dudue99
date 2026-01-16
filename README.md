@@ -1,49 +1,58 @@
-<!-- Banner -->
-<img src = "./Banner.png">
-<br/>
-<br/>
-<h1 align="center">Hi 👋, I'm Duduzile Aaron Sibanda</h1>
-<h3 align="center">A motivated fullstack developer from Zimbabwe who has a passion for working on fully functional web projects and learn new things along the way.</h3><br />
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<p align="center"> <a href="https://twitter.com/aaron_dudue99" target="blank"><img src="https://img.shields.io/twitter/follow/aaron_dudue99?logo=twitter&style=for-the-badge" alt="aaron_dudue99" /></a> </p>
+<h1 align="center">Hi 👋, I'm Duduzile Sibanda</h1>
+<h3 align="center">A passionate Fullstack Software Engineer from Zimbabwe</h3>
 
-- 🔭 I’m currently working on [a farm operations management web api that manages all the activities on a farm from expenses, products, customers, farm inputs, e.t.c](https://github.com/aaron-dudue99/farm-operations-mgmt)
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" /> <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
 
-- 🌱 I’m currently learning **NestJS for backend and Angular for frontend**
+</div>
 
-- 👯 I’m looking to collaborate on **any project that can get me to acquire more skill and experience while coding it**
-
-- 💬 Ask me about **react, javascript**
-
-- 📫 How to reach me **duduzilesibanda99@gmail.com or via phone at +263776712092**
-
-</br>
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/aaron_dudue99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaron_dudue99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/duduzile-aaron-sibanda-104a53197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duduzile-aaron-sibanda-104a53197" height="30" width="40" /></a>
-<a href="https://fb.com/aaron.dudue99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aaron.dudue99" height="30" width="40" /></a>
-<a href="https://instagram.com/daaron_gram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daaron_gram" height="30" width="40" /></a>
-</p>
-</br>
-</br>
-
-<details>
-<!-- Languages and tools that I use -->
-<summary><b>Languages and Tools:</b></summary>
 <br>
-<p align="center"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &emsp;<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> &emsp;<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> &emsp;
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>&emsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&emsp; <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> &emsp; <br /> <br /><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &emsp;<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &emsp; <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>&emsp; <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>&emsp; <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>&emsp;<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &emsp; <br /><br /><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>&emsp; <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&emsp; <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> &emsp; <br /><br /> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&emsp; <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>&emsp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>    &emsp; <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>     &emsp;  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>&emsp; <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  </p>
-<br/>
-</details>
-<br/>
-<!-- Work Summary -->
-<details>
-<summary><b>Work Summary</b></summary>
-<br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaron-dudue99&show_icons=true&locale=en&layout=compact" alt="aaron-dudue99" /></p>
-<br />
-</details>
-<br />
 
-<p><br/><img align="center" src="https://github-readme-stats.vercel.app/api?username=aaron-dudue99&show_icons=true&locale=en" alt="aaron-dudue99" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aaron-dudue99&label=Profile%20views&color=0e75b6&style=flat" alt="aaron-dudue99" /> </p>
+
+<br > <br>
+
+<br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaron-dudue99&theme=" alt="aaron-dudue99" /></a> </p>
+
+- 💻 I’m currently working on [Fairstay](github.com/aaro-dudue99/fairstay-frontend)
+
+- 👨‍💻 All of my projects are available at **duduzilesibanda.co.zw**
+- 📝 I regularly write articles on **duduzilesibanda.co.zw**
+
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+<p align="center">
+
+- **Languages**:
+  ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![POSTGRESQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<br>
+
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-dudue99&layout=compact&theme=" alt=aaron-dudue99 />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=aaron-dudue99&show_icons=true&locale=en&theme=" alt="aaron-dudue99" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=aaron-dudue99&theme=" alt="aaron-dudue99" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+
+<div align="center">
+<a href="https://github.com/aaron-dudue99">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aaron-dudue99&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aaron-dudue99&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaron-dudue99&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aaron-dudue99&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaron-dudue99&theme=2077" height="180em" />
+</div>
